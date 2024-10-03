@@ -36,7 +36,7 @@ jobs:
           plugin_achievements_threshold: B
           plugin_calendar: no
           plugin_calendar_limit: 10
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
