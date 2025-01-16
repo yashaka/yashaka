@@ -220,17 +220,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 12.7mb of code in 8763 edited files across 1299 commits</small>
+                <small>estimation from 12.6mb of code in 8698 edited files across 1280 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.78485335638726" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="229.78485335638726" y="0" width="72.38508106606992" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="302.1699344224572" y="0" width="71.9421486893691" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="374.1120831118263" y="0" width="52.45323696354707" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="426.56532007537334" y="0" width="33.43467992462667" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.9921856229642" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="228.9921856229642" y="0" width="72.63431452867569" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="301.6265001516399" y="0" width="72.18985706464585" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="373.8163572162857" y="0" width="52.63384188490336" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="426.4501991011891" y="0" width="33.54980089881091" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -242,8 +242,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>55.9k lines</div>
-                                <div>49.95%</div>
+                                <div>55.5k lines</div>
+                                <div>49.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -255,7 +255,7 @@
                             </div>
                             <small>
                                 <div>22.8k lines</div>
-                                <div>15.64%</div>
+                                <div>15.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -267,7 +267,7 @@
                             </div>
                             <small>
                                 <div>9.60k lines</div>
-                                <div>7.27%</div>
+                                <div>7.29%</div>
                             </small>
                         </div>
                     </section>
@@ -281,7 +281,7 @@
                             </div>
                             <small>
                                 <div>15.9k lines</div>
-                                <div>15.74%</div>
+                                <div>15.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -293,7 +293,7 @@
                             </div>
                             <small>
                                 <div>12.2k lines</div>
-                                <div>11.4%</div>
+                                <div>11.44%</div>
                             </small>
                         </div>
                     </section>
@@ -2645,7 +2645,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 86.6k out of 228m repositories</span>
+                                    <span class="gh">ranked 86.6k out of 230m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">152</div>
                                     </div>
@@ -2741,7 +2741,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2025, 12:04:13 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2025, 13:13:14 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
