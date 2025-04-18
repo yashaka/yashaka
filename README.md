@@ -10,6 +10,8 @@
 
 🎼 I learn and practice: biology for psychology, philosophy, storytelling, video production for social networks, [Computer Vision][learncv], guitar and percussion, Capoeira Angola, education in general. I like tea culture and listening to vinyl records.
 
+💡 CONTACT ME if you need Head of QA & Automation, Consulting, Engineering Management, or QA Automation service provider and I will build a team for your needs.
+
 ![Metrics](/github-metrics.svg)
 
 <!--
