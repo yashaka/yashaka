@@ -55,7 +55,7 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_ignored: html, css, php
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: KnowledgeExpert/selenidejs, automician/app-manager-with-steps-demo-playwright-js, automician/msoutlook-tests, automician/k6-playwright-integration-example, automician/playright, automician/react-native-demo-expo-with-e2e-tests-ts, automician/python-mobile-test-template, automician/react-native-demo-with-e2e-tests, automician/selenidejs-mobile-test-appium-ts-template, automician/cypress-web-test-js-template, automician/snippets, automician/cypress-selene, automician/selenejs 
+          plugin_languages_indepth_custom: yashaka/selenidejs, automician/app-manager-with-steps-demo-playwright-js, automician/msoutlook-tests, automician/k6-playwright-integration-example, automician/playright, automician/react-native-demo-expo-with-e2e-tests-ts, automician/python-mobile-test-template, automician/react-native-demo-with-e2e-tests, automician/selenidejs-mobile-test-appium-ts-template, automician/cypress-web-test-js-template, automician/snippets, automician/cypress-selene, automician/selenejs 
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
