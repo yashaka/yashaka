@@ -25,7 +25,7 @@ Here are some educational materials in Test Automation I wrote with my team:
 [selene]: https://github.com/yashaka/selene
 [nselene]: https://github.com/yashaka/nselene
 [learncv]: https://github.com/yashaka/learncv
-[selenidejs]: https://github.com/KnowledgeExpert/selenidejs?tab=readme-ov-file#history--contributors
+[selenidejs]: https://github.com/yashaka/selenidejs?tab=readme-ov-file#history--contributors
 [playwright-template]: https://github.com/automician/app-manager-with-steps-demo-playwright-js/
 [intro-to-sd-en]: https://leanpub.com/intro-to-software-development
 [intro-to-sd-uk]: https://leanpub.com/intro-to-software-development-uk
