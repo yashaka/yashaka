@@ -1,10 +1,12 @@
-## Hey there 👋 I am Yasha K. and I am...
+## Hey there 👋 I am Yakiv (Yasha) Kramarenko and I am...
 
 ⚙️ Founding father of open source libraries for test automation, among which: [Selene][selene] in Python, [NSelene][nselene] in C#, [SelenideJs][selenidejs] in JavaScript/TypeScript, a [bunch of Playwright-ish utils and patterns][playwright-template].
 
 📿 An adept of KISS and Context-Driven approaches. Practitioner and coach in polyglot test automation. I invest in and win from educating teams more than recruiting experienced and expensive engineers. As a leader I practice facilitation over management, empowering teams to become self-organized utilizing Agile and transformative mediation approaches.
 
-⛩️ I believe in sociocracy, flat structures in organizations.
+⛩️ I believe in sociocracy, flat structures in organizations — and in stigmergy: coordination through traces left in a shared environment, the way ant colonies and mycelial networks manage without a central conductor.
+
+🍄🐜 These days I build [Synoetic](https://github.com/synoetic) — an open substrate where humans and autonomous AI agents grow "towns" together: living workspaces for any kind of work — code, texts, research, everyday matters. Build-in-public notes, findings and recipes (in Ukrainian): [t.me/synoetic](https://t.me/synoetic).
 
 🖋️ I wrote the [«Intro to Software Development (Part I: Frontend)»][intro-to-sd-en] ([in uk][intro-to-sd-uk], [in ru][intro-to-sd-ru]) aimed at beginners from kids to their parents. Occasionally, I post in Ukrainian to [autotestyak.t.me](https://autotestyak.t.me) and [youtube.com/@autotestyak](https://www.youtube.com/@autotestyak). I [retrained][retrained-into-it] immigrants from the east of Ukraine into IT in 2020/2021.
 
