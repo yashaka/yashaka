@@ -6,7 +6,7 @@
 
 ⛩️ I believe in sociocracy, flat structures in organizations — and in stigmergy: coordination through traces left in a shared environment, the way ant colonies and mycelial networks manage without a central conductor.
 
-🍄🐜 These days I build [Synoetic](https://github.com/synoetic) — an open substrate where humans and autonomous AI agents grow "towns" together: living workspaces for any kind of work — code, texts, research, everyday matters. Build-in-public notes, findings and recipes (in Ukrainian): [t.me/synoetic](https://t.me/synoetic).
+🍄🐜 These days I build [Synoetic](https://synoetic.org) — an open substrate where humans and autonomous AI agents grow "towns" together: living workspaces for any kind of work — code, texts, research, everyday matters. Build-in-public notes, findings and recipes (in Ukrainian): [t.me/synoetic](https://t.me/synoetic).
 
 🖋️ I wrote the [«Intro to Software Development (Part I: Frontend)»][intro-to-sd-en] ([in uk][intro-to-sd-uk], [in ru][intro-to-sd-ru]) aimed at beginners from kids to their parents. Occasionally, I post in Ukrainian to [autotestyak.t.me](https://autotestyak.t.me) and [youtube.com/@autotestyak](https://www.youtube.com/@autotestyak). I [retrained][retrained-into-it] immigrants from the east of Ukraine into IT in 2020/2021.
 
