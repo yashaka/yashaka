@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest @ 2026-10-23
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -69,4 +69,3 @@ jobs:
           # plugin_people_limit: 24
           # plugin_people_size: 28
           # plugin_people_types: followers, following
-          plugin_traffic: yes
