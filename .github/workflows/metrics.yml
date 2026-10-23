@@ -12,12 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest @ 2026-10-23
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # branch `latest` (its head since 2023-09-12), pinned 2026-10-23
         with:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - repo
+          #  (`repo` only for plugin_traffic / private repos - not used: the token is read-only)
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
